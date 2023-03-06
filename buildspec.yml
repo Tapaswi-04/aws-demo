@@ -9,5 +9,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/demo-app.jar
+    - target/jb-hello-world-maven.jar
   discard-paths: yes
